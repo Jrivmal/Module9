@@ -1,0 +1,35 @@
+
+/**
+ * 
+ * @author j_rm7
+ *
+ */
+public class Main {
+	/**
+	 *
+	 * @param args
+	 * / This is the main method which start the execution*/
+	
+	 /** * This method is when there is an exception in case the file is not found
+	 * @throws IOException*/
+
+	
+		 /**
+		  * Where the file that is going to be used is located
+		  * @param newFile location
+		  */	 
+	 
+
+	/**
+	 * Opens the file and reads it, buffering the words, characters and lines
+	 */
+
+	/**
+	 * split the lines by the given string
+	 * @param line split
+	 */
+
+	/**
+	 * This is the method where the occurency of the words are counted 
+	 * @param wordcounts
+	 */
