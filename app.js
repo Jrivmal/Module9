@@ -6,7 +6,7 @@ import java.util.Map;
  * @author j_rm7
  *
  */
-public class Main {
+public class Words {
 	/**
 	 *
 	 * @param args
